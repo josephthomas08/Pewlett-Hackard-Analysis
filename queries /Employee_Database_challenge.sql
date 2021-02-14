@@ -1,7 +1,4 @@
-
-
-
---Deliverable 1.
+--Deliverable 1: The Number of Retiring Employees by Title
 
 --Retrieve the emp_no, first_name, and last_name columns from the Employees table.
 
@@ -17,12 +14,13 @@ e.last_name,
 t.title,
 t.from_date,
 t.to_date
-INTO retirement_titles
+--INTO retirement_titles
 FROM employees as e
 INNER JOIN titles AS t
 ON (e.emp_no = t.emp_no)
 WHERE (e.birth_date BETWEEN '1952-01-01' AND '1955-12-31')
 ORDER BY emp_no ASC;
+
 
 -- Images Data for records and presentation
 
@@ -96,6 +94,7 @@ FROM unique_titles;
 -- The intent of this study is to  check if there are enough employees to provide mentorship?
 
 SELECT COUNT (emp_no), title
+INTO mentorready_emp
 FROM mentorship_eligibility
 GROUP BY title
 ORDER BY COUNT (emp_no) DESC;
