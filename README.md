@@ -82,11 +82,11 @@ It was observed that we have 1549 number of employees who could be possible ment
 # Results:
 
 1.	The SQL query has been coded such that we have a retirement_titles table with current employees who are born between 1952-01-01 to 1955-12-31.
-    a.	The number of employees in this table with duplication due to promotions was 133,376 numbers.
+    1. The number of employees in this table with duplication due to promotions was 133,376 numbers.
 2.	The SQL query was further used to remove the duplication with the DISTINCT ON statement, and the unique_titles table was saved for analysis.
-    a.	After removing duplication, the number of employees found was 90,398 employees, which is almost 27.2 % of the total 331,603 employees.
+    1.	After removing duplication, the number of employees found was 90,398 employees, which is almost 27.2 % of the total 331,603 employees.
 3.	Finally, for the deliverable, we worked out the total count of employees for each title to zero in to know the possible solution for recruits, retraining and mentoring programs.
-    a.	 The retiring titles table provide us with more detailed input of the large number of mentors needed for senior engineers and senior staff, which was more than 30% of 
+    1. The retiring titles table provide us with more detailed input of the large number of mentors needed for senior engineers and senior staff, which was more than 30% of 
     total retiring titles.
     
 4. The SQL query statment was drafted to know the mentor eligibility taht holds the current employees who were born between 1965-01-01 to 1965-12-31.
@@ -105,8 +105,8 @@ The tables are again provided below for better clarity. As we see we have a tota
 
 The criteria used for the evaluation was :
 
-    a :the employees shortlisted were born between 1952 and 1955 
-    b: the lastest ttitles the employees hold were evaluated for removal of duplication and idnetify the right resource which PW will require as part of recuriting, retraining and
+    1. The employees shortlisted were born between 1952 and 1955 
+    2. The lastest ttitles the employees hold were evaluated for removal of duplication and idnetify the right resource which PW will require as part of recuriting, retraining and
     mentoring.
 
 2. The second key question the managment has asked for our advise is if the number of mentors identfied will be enough to mentor the incoming employees internally or externally?
@@ -119,13 +119,13 @@ The criteria used for the evaluation was :
 
 
 
-    a: the max number of mentors we can have from the pool is 1549 which gives us a 1:58 ratio, which could further differ if we go based on each title. This number is considering
+    1. The max number of mentors we can have from the pool is 1549 which gives us a 1:58 ratio, which could further differ if we go based on each title. This number is considering
     every one of them will enroll for the mentorship program, hence this can reduce further once we have the real figure.
-    b : the number of mentors which is 1549 we beleive is lower ratio and as a result we should consider mutiple platforms for training and recuriting extensively to fill the gap
+    2. the number of mentors which is 1549 we beleive is lower ratio and as a result we should consider mutiple platforms for training and recuriting extensively to fill the gap
     created due to Silver tsuanmi
-    c: Due to consderable amount of fast paced change in technology and soft skill needs it will be better for PW to work with external third party trainers similar to online
+    3. Due to consderable amount of fast paced change in technology and soft skill needs it will be better for PW to work with external third party trainers similar to online
     portals, local colleges and univeristies to develop cusomized training portals fine tuned to PW industry needs.
-    d: The anlaysis was done with two main understanding which was the birthdate was Jan 1 to dec 31 1965 and from the list of current employees.
+    4. The anlaysis was done with two main understanding which was the birthdate was Jan 1 to dec 31 1965 and from the list of current employees.
 
 
 
