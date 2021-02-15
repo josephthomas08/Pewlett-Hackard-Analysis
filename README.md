@@ -1,5 +1,4 @@
 # Pewlett-Hackard-Analysis
-Sql Analysis 
 
 
 # Overview of the analysis:
