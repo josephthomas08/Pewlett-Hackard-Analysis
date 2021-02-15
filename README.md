@@ -99,14 +99,14 @@ The key issue to be addressed through this study is to find challenges due to "S
 
 Th key question raised by management is:
 
-## 1. How many roles will need to be filled as a result of silver tsunami effect in PW?
+### 1. How many roles will need to be filled as a result of silver tsunami effect in PW?
 The tables are again provided below for better clarity. As we see we have a total exodus of 90398 employees in short span of time. The total number of vanacies to filled is 90398.
 The criteria used for the evaluation was :
 
-  ### The employees shortlisted were born between 1952 and 1955 
-  ### The last ttitle the employees hold were evaluated for removal of duplication and identify the right resource which PW will require as part of recuriting, retraining an mentoring.
+  #### The employees shortlisted were born between 1952 and 1955 
+  #### The last title the employees held were evaluated for removal of duplication and identify the right resource which PW will require as part of recuriting, retraining an mentoring.
 
-## 2. The second key question the managment has asked for our advise is if the number of mentors identfied will be enough to mentor the incoming employees internally or externally?
+### 2. The second key question the management has asked for our advise, is if the number of mentors identfied will be enough to mentor the incoming employees internally or externally?
 
 
 
@@ -116,14 +116,14 @@ The criteria used for the evaluation was :
 
 
 
-  ### The max number of mentors we can have from the pool is 1549 which gives us a 1:58 ratio, which could further differ if we go based on each title. This number is considering every one of them will enroll for the mentorship program, hence this Number can further reduce once we have the real figure.
-  ### The number of mentors which is 1549 we beleive is lower ratio and as a result we should consider mutiple platforms for training and recuriting extensively to fill the gapcreated due to Silver tsuanmi
-  ### Due to consderable amount of fast paced change in technology and soft skill needs to have alternate and additional models in place to avoid similar silver tsunami situation by 
-   #### Creating online training portals customized to PW needs along with the scheduled training of 1549 potential mentors. 
-   #### Partner with third party trainers to have fastpaced approach in developing quality tutorials for in house proffesional development.
-   #### Partner with external resource and head hunters to bring in visionary leaders as consultants and in house strategic recruits for proactive approach to avoid sucha large exodus of staff which could possibly impact its market leadeship.
-   #### Similar to online portals, local colleges and univeristies will be other avenue of partneship for community engagement to train millinials and new generations for PW Values and train them on PW products and services.
-  ### The anlaysis was done with two main understanding which was the birthdate was Jan 1 to dec 31 1965 and from the list of current employees.
+  #### 1. The max number of mentors we can have from the pool, is 1549, which gives us a 1:58 ratio, which could further differ if we go based on each title. This number is considering every one of them will enroll for the mentorship program, hence this Number can further reduce once we have the real figure.
+  #### 2. The number of mentors which is 1549 we beleive is lower ratio and as a result we should consider mutiple platforms for training and recuriting extensively to fill the gap created due to Silver tsuanmi
+  #### 3. Due to consderable amount of fast paced change in technology and soft skill needs to have alternate and additional models in place to avoid similar silver tsunami situation by 
+   ##### 3.1. Creating online training portals customized to PW needs along with the scheduled training of 1549 potential mentors. 
+   ##### 3.2 .Partner with third party trainers to have fastpaced approach in developing quality tutorials for in house proffesional development.
+   ##### 3.3. Partner with external resource and head hunters to bring in visionary leaders as consultants and in house strategic recruits for proactive approach to avoid sucha large exodus of staff which could possibly impact its market leadeship.
+   ##### 3.4. Similar to online portals, local colleges and univeristies will be other avenue of partneship for community engagement to train millinials and new generations for PW Values and train them on PW products and services.
+  #### 4. The anlaysis was done with two main understanding which was the birthdate was Jan 1 to dec 31 1965 and from the list of current employees.
 
 
 
